@@ -1,0 +1,6 @@
+resource-pack-url: 'https://example.com/resourcepack/ctf-server.zip'
+
+#This should be a SHA-1 hash, if you don't want to add the hash automatically the plugin will use the legacy method.
+#To calculate the SHA-1, you can use a web like http://onlinemd5.com/ or similar (be sure to select SHA1)
+resource-pack-hash: '2E50E9E02F52EA326FE3909AB9EB32543865F1B6'
+

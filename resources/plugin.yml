@@ -1,0 +1,5 @@
+name: ForceTexturePack
+version: ${project.version}
+main: me.techiepi.forcetexurepack.Main
+api-version: 1.16
+authors: [TechiePi]
